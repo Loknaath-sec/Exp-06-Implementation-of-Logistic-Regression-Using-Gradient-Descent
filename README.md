@@ -117,7 +117,7 @@ y_prednew=predict(theta,xnew)
 print(y_prednew)
 ```
 ## Output:
-![logistic regression using gradient descent](sam.png)
+![image](https://github.com/user-attachments/assets/a71c009b-7a9e-4de0-82e2-522505a9b0c1)
 
 
 ## Result:
